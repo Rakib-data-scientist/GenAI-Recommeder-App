@@ -8,3 +8,9 @@
   * pip install -r requirements.txt
   * cd app.py
   * streamlit run app.py
+
+# UI :
+
+*
+![UI](https://github.com/Rakib-data-scientist/Toy-Search-App/assets/137823730/85aee555-e4b2-4520-aa28-8c1b78427f96)
+
