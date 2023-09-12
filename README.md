@@ -1,6 +1,7 @@
-# Toy-Search-App
+# GenAI- Recommender app 
 
 * A LLM bot that is trained on custom toy data, you can search for a toy in its UI and it will provide recommended toy.
+* Using text to image search.
 * Basically it show the capapbility of bot to search the similar item and recommend you.
 
 # To run this app :
