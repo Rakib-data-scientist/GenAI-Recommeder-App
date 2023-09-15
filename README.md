@@ -12,7 +12,7 @@
 
 # UI :
 
-*
+
 ![UI](https://github.com/Rakib-data-scientist/GenAI-Recommeder-App/assets/137823730/e1eb7efb-2ed2-4b8b-9c8f-3ac63a99a61c)
 
 
